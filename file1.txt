@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello world! Привет мир!
+=======
+~Hello world! Hi wordls альтернатива
+>>>>>>> feature
